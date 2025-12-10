@@ -1,0 +1,494 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+body{
+	background-image: url(background\ img.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+  backdrop-filter: blur(30px);
+  box-shadow: inset 0 0 500px #ffffff54;
+  margin: 0;
+}
+
+html, body {
+	height: 100%;
+	cursor: url(blue.cur), auto; 
+  }
+.wallpaper{
+    position: absolute;
+    cursor: url(blue.cur), auto;
+    background-image: url(mobile\ img.png);
+    height: 600px;
+    width: 300px;
+  background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: cover;
+    left: 50%;
+    top: 12%;
+    border-radius: 20px;
+    transform: translateY(-12%);
+    transform: translateX(-50%);
+    box-shadow: 0 0 100px  #00000054;
+}
+.bat{
+  margin-left: 270px;
+  margin-top: 10px;
+  height: 20px;
+}
+.bat::selection{
+  background-color: #0000005b;
+  color: black;
+}
+.b91::selection{
+  background-color: #0000005b;
+  color: #fff;
+}
+.baka::selection{
+  background-color: #0000005b;
+}
+.wifi::selection{
+  background-color: #0000005b;
+}
+.tooth::selection{
+  background-color: #0000005b;
+}
+.osama::selection{
+  background-color: #0000005b;
+  color: white;
+}
+.osamabig::selection{
+  background-color: #0000005b;
+  color: white;
+}
+.googleplay::selection{
+  background-color: #0000005b;
+  color: white;
+}
+.moon::selection{
+  background-color: #0000005b;
+}
+.cold::selection{
+  background-color: #0000005b;
+  color: #fff;
+}
+.d911d::selection{
+  background-color: #0000005b;
+  color: #fff;
+}
+.O::selection{
+  background-color: #0000005b;
+}
+.square::selection{
+  background-color: #0000005b;
+}
+.screent::selection{
+  background-color: #0000005b;
+  color: white;
+}
+.relode::selection{
+  background-color: #0000005b;
+}
+.y11y::selection{
+  background-color: #0000005b;
+}
+.meandbroO::selection{
+  background-color: #0000005b;
+}
+.m900m::selection{
+  background-color: #0000005b;
+}
+.meandbrotext::selection{
+  background-color: #0000005b;
+}
+.meandbroglitchen::selection{
+  background-color: #0000005b; 
+}
+.m10m::selection{
+  background-color: #0000005b;  
+}
+.meandbrotextglitch::selection{
+  background-color: #0000005b;  
+}
+.meandbro90s::selection{
+  background-color: #0000005b;  
+}
+.m1m::selection{
+  background-color: #0000005b;  
+}
+.meandbrotext90s::selection{
+  background-color: #0000005b;  
+}
+.wowmohab::selection{
+  background-color: #0000005b;  
+}
+.drunkmohab::selection{
+  background-color: #0000005b;  
+}
+.pandamohab::selection{
+  background-color: #0000005b;  
+}
+.seriousemohab::selection{
+  background-color: #0000005b;   
+}
+.funnymohab::selection{
+  background-color: #0000005b;   
+}
+.bigbattery91b::selection{
+  background-color: #0000005b;   
+}
+.b91{
+  position: absolute;
+  margin-top: -23px;
+  margin-left: 237px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.baka{
+  position: absolute;
+  left: 213px;
+  top: 7px;
+  height: 25px;
+}
+.wifi{
+  position: absolute;
+  height: 20px;
+  top: 11px;
+  right: 88px;
+}
+.tooth{
+  position: absolute;
+  height: 24px;
+  top: 8px;
+  right: 115px;
+}
+.osama{
+  position: absolute;
+  margin-top: -20px;
+  margin-left: 10px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+.osamabig{
+  position: absolute;
+  top: 4px;
+  margin-left: 17px;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 55px;
+}
+.googleplay{
+  cursor: url(blue.cur), auto;
+  position: absolute;
+  top: 565px;
+  height: 30px;
+  margin-left: -245px;
+  z-index: 1;
+}
+.input1{
+  display: none;
+  visibility: hidden;
+}
+.input1:checked + .osamabig{
+  color: rgb(0, 0, 0);
+}
+.moon{
+  margin-left: 190px;
+  margin-top: 20px;
+  height: 40px;
+}
+.cold{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: -34px;
+  margin-left: 230px;
+}
+.d911d{
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+  font-weight: 600;
+  margin-left: 190px;
+  margin-top: -10px;
+}
+.googleh{
+  position: absolute;
+  height: 40px;
+  width: 90px;
+  top: 559px;
+  left: 10px;
+  border-radius: 40px;
+  transition: 0.2s ease;
+  cursor: url(blue.cur), auto;
+}
+.googleh:active{
+  box-shadow: inset 0 0 100px #ffffff1c;
+  position: absolute;
+  left: 5px;
+  width: 110px;
+}
+.googleplay:active + .googleh{
+  box-shadow: inset 0 0 100px #ffffff1c;
+  position: absolute;
+  left: 5px;
+  width: 110px;
+}
+.O{
+  cursor: url(blue.cur), auto;
+  position: absolute;
+  top: 565px;
+  height: 30px;
+  margin-left: 130px;
+}
+.input2{
+  display: none;
+  visibility: hidden;
+}
+.Od{
+  position: absolute;
+  height: 40px;
+  width: 90px;
+  top: 559px;
+  left: 100px;
+  border-radius: 40px;
+  transition: 0.2s ease;
+  cursor: url(blue.cur), auto;
+}
+.Od:active{
+  box-shadow: inset 0 0 100px #ffffff1c;
+  position: absolute;
+  left: 90px;
+  width: 110px;
+}
+.O:active + .Od{
+  box-shadow: inset 0 0 100px #ffffff1c;
+  position: absolute;
+  left: 90px;
+  width: 110px;
+}
+.input3{
+  display: none;
+  visibility: hidden;
+}
+.square{
+  cursor: url(blue.cur), auto;
+  position: absolute;
+  top: 570px;
+  height: 23px;
+  margin-left: 220px;
+}
+.squared{
+  position: absolute;
+  height: 40px;
+  width: 90px;
+  top: 559px;
+  left: 190px;
+  border-radius: 40px;
+  transition: 0.2s ease;
+  cursor: url(blue.cur), auto;
+}
+.squared:active{
+  box-shadow: inset 0 0 100px #ffffff1c;
+  position: absolute;
+  left: 180px;
+  width: 110px;
+}
+.square:active + .squared{
+  box-shadow: inset 0 0 100px #ffffff1c;
+  position: absolute;
+  left: 90px;
+  width: 110px;
+}
+.screend{
+  position: absolute;
+  height: 250px;
+  width: 130px;
+  left: 155px;
+  border-radius: 15px;
+  background-color: #02111d;
+}
+.screent{
+  position: absolute;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11px;
+  font-weight: 400;
+  top: 5px;
+  left: 10px;
+}
+.relode{
+  cursor: url(blue.cur), auto;
+  position: absolute;
+  top: 13px;
+  right: 15px;
+  height: 16px;
+}
+.reloded{
+  cursor: url(blue.cur), auto;
+  position: absolute;
+  height: 25px;
+  width: 25px;
+  left: 94px;
+  top: 8px;
+  border-radius: 15px;
+  transition: 0.2s ease;
+}
+.reloded:active{
+  box-shadow: inset 0 0 100px #ffffff1c;
+}
+.relode:active + .reloded{
+  box-shadow: inset 0 0 100px #ffffff1c;
+}
+.y11y{
+  position: absolute;
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 30px;
+  top: 50px;
+  left: 10px;
+}
+.meandbroO{
+  position: absolute;
+  top: 150px;
+  left: 15px;
+  height: 30px;
+  border-radius: 50px;
+}
+.m900m{
+  position: absolute;  
+  background: linear-gradient(145deg, orange, blue);
+  background-clip: text;
+  color: transparent;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 10px;
+  top: 150px;
+  left: 17px;
+}
+.meandbrotext{
+  position: absolute;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 9px;
+  top: 150px;
+  left: 60px;
+}
+.meandbroglitchen{
+  position: absolute;
+  top: 180px;
+  left: 15px;
+  height: 30px;
+  border-radius: 50px;
+}
+.m10m{
+  position: absolute;
+  background: linear-gradient(145deg, #ff00ff, blue, pink);
+  background-clip: text;
+  color: transparent;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 9px;
+  top: 180px;
+  left: 23px;
+}
+.meandbrotextglitch{
+  position: absolute;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 9px;
+  top: 180px;
+  left: 60px;
+}
+.meandbro90s{
+  position: absolute;
+  top: 210px;
+  left: 15px;
+  height: 30px;
+  border-radius: 50px;
+}
+.m1m{
+  position: absolute;
+  background: linear-gradient(245deg, black, white /* slave*/);
+  background-clip: text;
+  color: transparent;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 9px;
+  top: 210px;
+  left: 23px;
+}
+.meandbrotext90s{
+  position: absolute;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 9px;
+  top: 210px;
+  left: 60px;
+}
+.wowmohab{
+  position: absolute;
+  left: 50px;
+  height: 50px;
+  z-index: 1;
+}
+.drunkmohab{
+  position: absolute;
+  top: 170px;
+  left: 95px;
+  height: 50px;
+}
+.pandamohab{
+  position: absolute;
+  top: 170px;
+  left: 10px;
+  height: 50px;
+}
+.seriousemohab{
+  position: absolute;
+  top: 224px;
+  left: 25px;
+  height: 50px;
+}
+.funnymohab{
+  position: absolute;
+  top: 224px;
+  left: 83px;
+  height: 50px;
+}
+.bigbattery{
+  position: absolute;
+  top: 17.40pc;
+  right: 10pc;
+  background-color: #112330;
+  border: 1px #ffffff1e solid;
+  border-radius: 23px;
+  width: 130px;
+  height: 105px;
+}
+.batterybigfill{
+  position: absolute;
+  top: 16px;
+  left: -0.50px;
+  width: 130px;
+  height: 90px;
+  border-radius: 23px;
+  background-color: #ffffff1a;
+}
+.bigbattery91b{
+  position: absolute;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bolder;
+  font-size: 50px;
+  left: 17.50px;
+  bottom: -35px;
+}
